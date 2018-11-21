@@ -1,1 +1,1 @@
-include ':app', ':viewcode'
+include ':app'
